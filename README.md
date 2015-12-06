@@ -9,3 +9,6 @@ This is based on a set of procurement and legal design principles that align wit
 ## What's included
 
 The team
+Design and delivery phases
+Governance
+Communications and engagement
